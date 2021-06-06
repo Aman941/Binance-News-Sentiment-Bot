@@ -47,8 +47,8 @@ from timeit import default_timer as timer
 testnet = True
 
 # get binance key and secret from environment variables for testnet and live
-api_key_test = os.getenv('binance_api_stalkbot_testnet')
-api_secret_test = os.getenv('binance_secret_stalkbot_testnet')
+api_key_test = #test_key_here
+api_secret_test = #secret_key_here
 
 api_key_live = os.getenv('binance_api_stalkbot_live')
 api_secret_live = os.getenv('binance_secret_stalkbot_live')
